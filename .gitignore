@@ -1,0 +1,4 @@
+.vs
+RedditClone/bin/*
+RedditCloneTests/bin/*
+packages/*
